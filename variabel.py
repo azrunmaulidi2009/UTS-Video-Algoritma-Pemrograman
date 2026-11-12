@@ -6,7 +6,7 @@ nama_lengkap = "Muhamad Azrun Maulidi"
 tempat_tanggal_lahir = "Bogor, 21 Maret 2009"
 jenis_kelamin = "Laki-Laki"
 alamat_lengkap = "Kp. Tenggek, Desa Cimande Hilir, Kab. Bogor"
-no_hp = "ISI NOMOR HP"
+no_hp ="083152019887"
 penghasilan_sebulan = 5100000
 
 # Menampilkan output
